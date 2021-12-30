@@ -28,4 +28,7 @@ Nuc-Seq `/home/meisl/Workplace/neuroblastoma/Figures/data/nucseq`
 'adrenal_72' = '/home/hsarkar/Projects/ThMYCN/PMID33833454/GSM5067115_10x72.raw_feature_bc_matrix.h5'
 ```
 
-
+### Notebooks
+- [Initial Seurat Analysis](https://github.com/hiraksarkar/neuroblastoma_analysis/blob/master/notebook/Seurat_Analysis.ipynb)
+- [Cell-cycle Analysis](https://github.com/hiraksarkar/neuroblastoma_analysis/blob/master/notebook/Cell_Cycle_Regression.ipynb)
+- [Velocity Analysis](https://github.com/hiraksarkar/neuroblastoma_analysis/blob/master/notebook/ThMYCN_velocity.ipynb)
