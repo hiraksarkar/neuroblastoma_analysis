@@ -1,0 +1,14 @@
+#This folder contains the tsv files with for each of the enrichments results (to be included as an insert in the bottom).
+#These files have for rows pairwise comparison between each cell type of interest and each cluster of the target dataset ("reference_dataset.enrichment_dataset" named "", for example "hg12_PCC_KEql17.5SympthAdrnlDvlpmntCllsTyps.tsv"). The columns are in order:
+0) cell type
+1) cluster
+2) genes cluster of interest in cell type of interest
+3) genes cluster of interest NOT in cell type of interest
+4) genes NOT in cluster of interest in cell type of interest
+5) genes NOT in cluster of interest NOT in cell type of interest
+6) stat
+7) p-value
+8) Genes_enriched_in_cluster
+9) FDR
+10) significance
+

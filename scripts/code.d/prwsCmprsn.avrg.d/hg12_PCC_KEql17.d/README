@@ -1,0 +1,14 @@
+#In this folder the tsv files with for each of the datasets compared are included.
+#These files have for rows pairwise comparison between each cluster of the reference dataset and each cluster of the target dataset (all files in the folder have the same target dataset and different refence). The columns are in order:
+0) cell type (i.e. reference cluster)
+1) cluster (i.e. target cluster)
+2) genes cluster of interest in cell type of interest
+3) genes cluster of interest NOT in cell type of interest
+4) genes NOT in cluster of interest in cell type of interest
+5) genes NOT in cluster of interest NOT in cell type of interest
+6) stat
+7) p-value
+8) Genes_enriched_in_cluster
+9) FDR
+10) significance
+
